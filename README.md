@@ -1,0 +1,6 @@
+- 🙌 heyyy, I’m @jou0422
+- 👀 interested in user interface design
+- 🖥️ looking for junior front end web developer position
+- 🌱 currently using angular to bulid a recipes website 🥘🧁🌮
+- 📫 reach me at yujou422@gmail.com
+- ⚡ Fun fact: ...
