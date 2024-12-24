@@ -2,5 +2,5 @@
 - 👀 interested in user interface design
 - 🖥️ looking for junior front end web developer position
 - 🌱 currently using angular to bulid a recipes website 🥘🧁🌮
-- 📫 reach me at yujou422@gmail.com
+- 📫 reach me at michelle22lin@gmail.com
 - ⚡ Fun fact: my first trip to Singapore is only to see Taylor Swift's concert ✈️✨
