@@ -1,6 +1,6 @@
 - 🙌 heyyy, I’m @jou0422
-- 👀 interested in user interface design
+- 👀 interested in website design and user interface design
 - 🖥️ looking for junior front end web developer position
-- 🌱 currently using angular to bulid a recipes website 🥘🧁🌮
+- 🌱 currently using angular to build a recipes website 🥘🧁🌮
 - 📫 reach me at michelle22lin@gmail.com
 - ⚡ Fun fact: my first trip to Singapore is only to see Taylor Swift's concert ✈️✨
